@@ -1,4 +1,8 @@
+body {
+  margin: 8px;
+}
 figure {
+  display: block;
   width: 450px;
   height: 300px;
 }
